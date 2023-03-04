@@ -2,7 +2,7 @@
 
 Web scraping refers to the process of automatically extracting data from websites. 
 IMDb (Internet Movie Database) is a popular website that provides information about movies, TV shows, actors, and more. 
-Web scraping of IMDb can be done using Python or other programming languages.
+Web scraping of IMDb can be done using Python.
 
 To perform web scraping on IMDb, you can follow these general steps:
 
